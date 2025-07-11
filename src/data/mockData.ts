@@ -8,7 +8,7 @@ export const currentUser: User = {
   email: 'vishnumakkena3@gmail.com',
   age: 21,
   gender: 'Male',
-  profilePicture: 'src/assets/images/profile1.jpg'
+  profilePicture: 'public/images 11.17.52 PM/profile1.jpg'
   
 };
 
@@ -64,7 +64,7 @@ export const doctors: Doctor[] = [
         slots: ['09:00 AM', '10:00 AM', '11:00 AM']
       }
     ],
-    profilePicture: 'src/assets/images/profile4.jpeg'
+    profilePicture: 'public/images 11.17.52 PM/profile4.jpeg'
   },
   {
     id: 'doc2',
@@ -82,7 +82,7 @@ export const doctors: Doctor[] = [
         slots: ['09:00 AM', '10:00 AM', '11:00 AM', '02:00 PM', '03:00 PM']
       }
     ],
-    profilePicture: 'src/assets/images/profile2.jpeg'
+    profilePicture: 'public/images 11.17.52 PM/profile2.jpeg'
   },
   {
     id: 'doc3',
@@ -104,7 +104,7 @@ export const doctors: Doctor[] = [
         slots: ['01:00 PM', '02:00 PM', '03:00 PM', '04:00 PM']
       }
     ],
-    profilePicture: 'src/assets/images/profile3.jpeg'
+    profilePicture: 'public/images 11.17.52 PM/profile3.jpeg'
   },
   {
     id: 'doc4',
@@ -126,7 +126,7 @@ export const doctors: Doctor[] = [
         slots: ['01:00 PM', '02:00 PM', '03:00 PM', '04:00 PM']
       }
     ],
-    profilePicture: 'src/assets/images/deviprasad.jpg'
+    profilePicture: 'public/images 11.17.52 PM/deviprasad.jpg'
   },
   {
     id: 'doc4',
@@ -148,7 +148,7 @@ export const doctors: Doctor[] = [
         slots: ['01:00 PM', '02:00 PM', '03:00 PM', '04:00 PM']
       }
     ],
-    profilePicture: 'src/assets/images/naresh treham.jpg'
+    profilePicture: 'public/images 11.17.52 PM/naresh treham.jpg'
   },
   {
     id: 'doc4',
@@ -170,7 +170,7 @@ export const doctors: Doctor[] = [
         slots: ['01:00 PM', '02:00 PM', '03:00 PM', '04:00 PM']
       }
     ],
-    profilePicture: 'src/assets/images/Dr.-Ashok-Seth.jpg'
+    profilePicture: 'public/images 11.17.52 PM/Dr.-Ashok-Seth.jpg'
   },
   {
     id: 'doc4',
@@ -192,7 +192,7 @@ export const doctors: Doctor[] = [
         slots: ['01:00 PM', '02:00 PM', '03:00 PM', '04:00 PM']
       }
     ],
-    profilePicture: 'src/assets/images/Dr-Suresh-Advani.png'
+    profilePicture: 'public/images 11.17.52 PM/Dr-Suresh-Advani.png'
   }
 ];
 
@@ -206,7 +206,7 @@ export const hospitals: Hospital[] = [
     contact: '+91 1800 425 1111',
     specialties: ['Cardiology', 'Neurology', 'Orthopedics', 'Pediatrics'],
     rating: 4.5,
-    image: 'src/assets/images/akash.jpeg'
+    image: 'public/images 11.17.52 PM/akash.jpeg'
   },
   {
     id: 'hosp2',
@@ -215,7 +215,7 @@ export const hospitals: Hospital[] = [
     contact: '+91 0462-4006000',
     specialties: ['Oncology', 'Gastroenterology', 'Urology', 'Dermatology'],
     rating: 4.7,
-    image: 'src/assets/images/kauvery.jpeg'
+    image: 'public/images 11.17.52 PM/kauvery.jpeg'
   },
   {
     id: 'hosp3',
@@ -224,7 +224,7 @@ export const hospitals: Hospital[] = [
     contact: '+91 044-4524 2407',
     specialties: ['Family Medicine', 'Dermatology', 'Psychiatry', 'Physical Therapy'],
     rating: 4.3,
-    image: 'src/assets/images/mgm.jpeg'
+    image: 'public/images 11.17.52 PM/mgm.jpeg'
   }
 ];
 
